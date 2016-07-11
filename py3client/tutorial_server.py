@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+ 
 import thriftpy
 
 from thriftpy.rpc import make_server
@@ -58,7 +58,7 @@ class CalculatorHandler(object):
 
 def main():
     server = make_server(tutorial_thrift.Calculator, CalculatorHandler(),
-                         '127.0.0.1', 6000)
+                         '127.0.0.1', 9090)
     print("serving...")
     server.serve()
 

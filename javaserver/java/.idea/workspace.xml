@@ -1,7 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff4dbaeb-c3b0-4ab0-8cc4-515f2a988241" name="Default" comment="" />
+    <list default="true" id="ff4dbaeb-c3b0-4ab0-8cc4-515f2a988241" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/JavaServer$2.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/CalculatorHandler$1.class" afterPath="$PROJECT_DIR$/target/classes/CalculatorHandler$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/CalculatorHandler.class" afterPath="$PROJECT_DIR$/target/classes/CalculatorHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/JavaClient.class" afterPath="$PROJECT_DIR$/target/classes/JavaClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/JavaServer$1.class" afterPath="$PROJECT_DIR$/target/classes/JavaServer$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/JavaServer.class" afterPath="$PROJECT_DIR$/target/classes/JavaServer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$1.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$AsyncClient$Factory.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$AsyncClient$Factory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$AsyncClient$getStruct_call.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$AsyncClient$getStruct_call.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$AsyncClient.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$AsyncClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$AsyncIface.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$AsyncIface.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$AsyncProcessor$getStruct$1.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$AsyncProcessor$getStruct$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$AsyncProcessor$getStruct.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$AsyncProcessor$getStruct.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$AsyncProcessor.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$AsyncProcessor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$Client$Factory.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$Client$Factory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$Client.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$Client.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$Iface.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$Iface.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$Processor$getStruct.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$Processor$getStruct.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$Processor.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$Processor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$getStruct_args$_Fields.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$getStruct_args$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$getStruct_args$getStruct_argsStandardScheme.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$getStruct_args$getStruct_argsStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$getStruct_args$getStruct_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$getStruct_args$getStruct_argsStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$getStruct_args$getStruct_argsTupleScheme.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$getStruct_args$getStruct_argsTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$getStruct_args$getStruct_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$getStruct_args$getStruct_argsTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$getStruct_args.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$getStruct_args.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$getStruct_result$_Fields.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$getStruct_result$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$getStruct_result$getStruct_resultStandardScheme.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$getStruct_result$getStruct_resultStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$getStruct_result$getStruct_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$getStruct_result$getStruct_resultStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$getStruct_result$getStruct_resultTupleScheme.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$getStruct_result$getStruct_resultTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$getStruct_result$getStruct_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$getStruct_result$getStruct_resultTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService$getStruct_result.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService$getStruct_result.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedService.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedStruct$1.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedStruct$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedStruct$SharedStructStandardScheme.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedStruct$SharedStructStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedStruct$SharedStructStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedStruct$SharedStructStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedStruct$SharedStructTupleScheme.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedStruct$SharedStructTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedStruct$SharedStructTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedStruct$SharedStructTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedStruct$_Fields.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedStruct$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/shared/SharedStruct.class" afterPath="$PROJECT_DIR$/target/classes/shared/SharedStruct.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$1.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncClient$Factory.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncClient$Factory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncClient$add_call.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncClient$add_call.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncClient$calculate_call.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncClient$calculate_call.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncClient$ping_call.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncClient$ping_call.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncClient$zip_call.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncClient$zip_call.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncClient.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncIface.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncIface.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncProcessor$add$1.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncProcessor$add$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncProcessor$add.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncProcessor$add.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncProcessor$calculate$1.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncProcessor$calculate$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncProcessor$calculate.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncProcessor$calculate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncProcessor$ping$1.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncProcessor$ping$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncProcessor$ping.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncProcessor$ping.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncProcessor$zip$1.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncProcessor$zip$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncProcessor$zip.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncProcessor$zip.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncProcessor.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$AsyncProcessor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$Client$Factory.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$Client$Factory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$Client.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$Client.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$Iface.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$Iface.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$Processor$add.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$Processor$add.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$Processor$calculate.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$Processor$calculate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$Processor$ping.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$Processor$ping.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$Processor$zip.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$Processor$zip.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$Processor.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$Processor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$add_args$_Fields.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$add_args$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$add_args$add_argsStandardScheme.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$add_args$add_argsStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$add_args$add_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$add_args$add_argsStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$add_args$add_argsTupleScheme.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$add_args$add_argsTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$add_args$add_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$add_args$add_argsTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$add_args.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$add_args.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$add_result$_Fields.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$add_result$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$add_result$add_resultStandardScheme.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$add_result$add_resultStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$add_result$add_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$add_result$add_resultStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$add_result$add_resultTupleScheme.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$add_result$add_resultTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$add_result$add_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$add_result$add_resultTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$add_result.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$add_result.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$calculate_args$_Fields.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$calculate_args$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$calculate_args$calculate_argsStandardScheme.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$calculate_args$calculate_argsStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$calculate_args$calculate_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$calculate_args$calculate_argsStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$calculate_args$calculate_argsTupleScheme.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$calculate_args$calculate_argsTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$calculate_args$calculate_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$calculate_args$calculate_argsTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$calculate_args.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$calculate_args.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$calculate_result$_Fields.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$calculate_result$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$calculate_result$calculate_resultStandardScheme.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$calculate_result$calculate_resultStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$calculate_result$calculate_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$calculate_result$calculate_resultStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$calculate_result$calculate_resultTupleScheme.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$calculate_result$calculate_resultTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$calculate_result$calculate_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$calculate_result$calculate_resultTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$calculate_result.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$calculate_result.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$ping_args$_Fields.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$ping_args$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$ping_args$ping_argsStandardScheme.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$ping_args$ping_argsStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$ping_args$ping_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$ping_args$ping_argsStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$ping_args$ping_argsTupleScheme.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$ping_args$ping_argsTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$ping_args$ping_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$ping_args$ping_argsTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$ping_args.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$ping_args.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$ping_result$_Fields.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$ping_result$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$ping_result$ping_resultStandardScheme.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$ping_result$ping_resultStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$ping_result$ping_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$ping_result$ping_resultStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$ping_result$ping_resultTupleScheme.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$ping_result$ping_resultTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$ping_result$ping_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$ping_result$ping_resultTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$ping_result.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$ping_result.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$zip_args$_Fields.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$zip_args$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$zip_args$zip_argsStandardScheme.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$zip_args$zip_argsStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$zip_args$zip_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$zip_args$zip_argsStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$zip_args$zip_argsTupleScheme.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$zip_args$zip_argsTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$zip_args$zip_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$zip_args$zip_argsTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator$zip_args.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator$zip_args.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Calculator.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Calculator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/InvalidOperation$1.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/InvalidOperation$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/InvalidOperation$InvalidOperationStandardScheme.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/InvalidOperation$InvalidOperationStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/InvalidOperation$InvalidOperationStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/InvalidOperation$InvalidOperationStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/InvalidOperation$InvalidOperationTupleScheme.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/InvalidOperation$InvalidOperationTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/InvalidOperation$InvalidOperationTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/InvalidOperation$InvalidOperationTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/InvalidOperation$_Fields.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/InvalidOperation$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/InvalidOperation.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/InvalidOperation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Operation.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Operation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Work$1.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Work$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Work$WorkStandardScheme.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Work$WorkStandardScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Work$WorkStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Work$WorkStandardSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Work$WorkTupleScheme.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Work$WorkTupleScheme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Work$WorkTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Work$WorkTupleSchemeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Work$_Fields.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Work$_Fields.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/Work.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/Work.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/tutorial/tutorialConstants.class" afterPath="$PROJECT_DIR$/target/classes/tutorial/tutorialConstants.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/java.iml" afterPath="$PROJECT_DIR$/.idea/java.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/JavaServer.java" afterPath="$PROJECT_DIR$/src/main/java/JavaServer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../shared.thrift" afterPath="$PROJECT_DIR$/../shared.thrift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial.thrift" afterPath="$PROJECT_DIR$/../tutorial.thrift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../py3client/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../py3client/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../py3client/tutorial.thrift" afterPath="$PROJECT_DIR$/../../py3client/tutorial.thrift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../py3client/tutorial_client.py" afterPath="$PROJECT_DIR$/../../py3client/tutorial_client.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../py3client/tutorial_server.py" afterPath="$PROJECT_DIR$/../../py3client/tutorial_server.py" />
+    </list>
     <ignored path="java.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,12 +156,12 @@
     <favorites_list name="java" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="JavaServer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/JavaServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+            <state relative-caret-position="190">
+              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,6 +170,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
@@ -51,6 +189,7 @@
       <list>
         <option value="$PROJECT_DIR$/build.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/JavaServer.java" />
       </list>
     </option>
   </component>
@@ -67,7 +206,7 @@
     <option name="width" value="1382" />
     <option name="height" value="754" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -92,8 +231,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -168,6 +305,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -440,6 +579,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ff4dbaeb-c3b0-4ab0-8cc4-515f2a988241" name="Default" comment="" />
@@ -454,31 +596,39 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33977455" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26096824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959743" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26096824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49436393" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -492,6 +642,36 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="698">
@@ -500,21 +680,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CalculatorHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#2465#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -528,9 +697,83 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JavaClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
+        <state relative-caret-position="-1150">
           <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
           <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tutorial.thrift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/shared/SharedService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="135" column="79" selection-start-line="135" selection-start-column="76" selection-end-line="135" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/shared/SharedStruct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="242" column="37" selection-start-line="242" selection-start-column="34" selection-end-line="242" selection-end-column="37" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#1898#1939#0" expanded="false" />
+            <element signature="e#2483#2500#0" expanded="false" />
+            <element signature="e#3472#3473#0" expanded="false" />
+            <element signature="e#3509#3510#0" expanded="false" />
+            <element signature="e#3734#3735#0" expanded="false" />
+            <element signature="e#3764#3765#0" expanded="false" />
+            <element signature="e#3800#3801#0" expanded="false" />
+            <element signature="e#3831#3832#0" expanded="false" />
+            <element signature="e#4130#4182#0" expanded="false" />
+            <element signature="e#5280#5281#0" expanded="false" />
+            <element signature="e#5319#5320#0" expanded="false" />
+            <element signature="e#5450#5451#0" expanded="false" />
+            <element signature="e#5475#5476#0" expanded="false" />
+            <element signature="e#5608#5609#0" expanded="false" />
+            <element signature="e#5693#5694#0" expanded="false" />
+            <element signature="e#5814#5815#0" expanded="false" />
+            <element signature="e#5886#5887#0" expanded="false" />
+            <element signature="e#6050#6051#0" expanded="false" />
+            <element signature="e#6077#6078#0" expanded="false" />
+            <element signature="e#6200#6201#0" expanded="false" />
+            <element signature="e#6227#6228#0" expanded="false" />
+            <element signature="e#6352#6353#0" expanded="false" />
+            <element signature="e#6387#6388#0" expanded="false" />
+            <element signature="e#8384#8392#0" expanded="false" />
+            <element signature="e#9602#9603#0" expanded="false" />
+            <element signature="e#9650#9651#0" expanded="false" />
+            <element signature="e#11510#11511#0" expanded="false" />
+            <element signature="e#11563#11564#0" expanded="false" />
+            <element signature="e#13718#13719#0" expanded="false" />
+            <element signature="e#13768#13769#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tutorial/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="51" column="20" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CalculatorHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="757">
+          <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#2465#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -538,8 +781,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JavaServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        <state relative-caret-position="190">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

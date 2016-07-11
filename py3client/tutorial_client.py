@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 
 import thriftpy
-
+from bigchaindb import crypto
+import rethinkdb as r
 from thriftpy.rpc import client_context
 
 tutorial_thrift = thriftpy.load("tutorial.thrift",
@@ -11,6 +12,9 @@ tutorial_thrift = thriftpy.load("tutorial.thrift",
 def main():
     with client_context(tutorial_thrift.Calculator,
                         '127.0.0.1', 9090) as client:
+        keypair = crypto.generate_key_pair()
+
+        print(keypair)
         client.ping()
         print("ping()")
 
