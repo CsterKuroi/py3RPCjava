@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
- 
+
 import thriftpy
 
 from thriftpy.rpc import make_server
@@ -13,7 +13,7 @@ class CalculatorHandler(object):
         self.log = {}
 
     def ping(self):
-        print('ping()')
+        print('pong()')
 
     def add(self, num1, num2):
         print('add(%d,%d)' % (num1, num2))

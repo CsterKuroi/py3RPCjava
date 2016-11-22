@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 import thriftpy
-from bigchaindb import crypto
-import rethinkdb as r
+#from bigchaindb import crypto
+#import rethinkdb as r
 from thriftpy.rpc import client_context
 
 contract_thrift = thriftpy.load("contract.thrift",
@@ -12,19 +12,15 @@ contract_thrift = thriftpy.load("contract.thrift",
 def main():
 
     with client_context(contract_thrift.Contract,
-                        '10.2.4.71', 8090) as client:
-        keypair = crypto.generate_key_pair()
+                        '127.0.0.1', 8090) as client:
+#        keypair = crypto.generate_key_pair()
 #        conn=r.connect(host='10.2.4.68',port=28015,db='bigchain') '10.2.4.71'
 #        tables = r.db('bigchain').table_list().run(conn)
 #        print(tables)
-        print(keypair)
+#        print(keypair)
 
         #v1 already exists F
         cv = client.creat_video("v1",10)
-        print(cv)
-
-        # new video T
-        cv = client.creat_video(keypair[1],10)
         print(cv)
 
         #u1:[v1] 0 u2:[] 100 T
